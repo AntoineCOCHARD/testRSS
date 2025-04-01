@@ -10,7 +10,6 @@
 <channel>
 	<title>LIS</title>
 	<atom:link href="https://antoinecochard.github.io/testRSS/JFBn8tgA" rel="self" type="application/rss+xml" />
-	<link>https://www.lis.eu/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jan 2025 10:35:29 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -26,7 +25,6 @@
 		<dc:creator><![CDATA[redakteur-de]]></dc:creator>
 		<pubDate>Tue, 17 Dec 2024 08:59:28 +0000</pubDate>
 				<category><![CDATA[Entreprise]]></category>
-		<guid isPermaLink="false">https://www.lis.eu/?p=36021</guid>
 
 					<description><![CDATA[La nouvelle politique écologique de l'entreprise prévoit de remplacer les e-mails par des pigeons voyageant avec des clefs USB accrochées aux pattes. Prévoyez un léger délai pour les réponses.]]></description>
 							
@@ -41,7 +39,6 @@
 		<dc:creator><![CDATA[Jan Werner]]></dc:creator>
 		<pubDate>Fri, 15 Dec 2023 09:43:43 +0000</pubDate>
 				<category><![CDATA[Entreprise]]></category>
-		<guid isPermaLink="false">https://www.lis.eu/?p=33979</guid>
 
 					<description><![CDATA[Pour gagner du temps, les idées innovantes seront désormais tirées au sort parmi les suggestions anonymes déposées dans l'urne à l'entrée de la salle de réunion. Le gagnant aura droit à une médaille en papier mâché.]]></description>
 								
@@ -55,7 +52,6 @@
 		<dc:creator><![CDATA[Jan Werner]]></dc:creator>
 		<pubDate>Thu, 07 Dec 2023 07:59:47 +0000</pubDate>
 				<category><![CDATA[Entreprise]]></category>
-		<guid isPermaLink="false">https://www.lis.eu/?p=33976</guid>
 
 					<description><![CDATA[Les experts en informatique annoncent la prochaine mise à jour : les ordinateurs bénéficieront d'une pause café automatique toutes les deux heures pour éviter la surchauffe. L'écran affichera un message apaisant : 'Chut... votre PC fait une petite sieste.']]></description>
 						
