@@ -9,7 +9,7 @@
 
 <channel>
 	<title>LIS</title>
-	<atom:link href="https://www.lis.eu/fr/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://antoinecochard.github.io/testRSS/JFBn8tgA" rel="self" type="application/rss+xml" />
 	<link>https://www.lis.eu/fr/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jan 2025 10:35:29 +0000</lastBuildDate>
